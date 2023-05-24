@@ -14,7 +14,7 @@ open PowerShell.
 
 Navigate to the location of your project
 
-Type docker pull omar2211/frontend:latest in the terminal to download the Docker image.
+Type docker pull omar2211/cloud:latest in the terminal to download the Docker image.
 
 Type (docker compose up flask_app) in the terminal to build and run the backend.
 
